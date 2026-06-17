@@ -41,7 +41,6 @@ Supermarket-Sales-Dashboard/
 ├── supermarket_project.ipynb
 ├── supermarket_sales.csv
 ├── README.md
-└── images/
 ```
 
 ## 📈 Visualizations Included
